@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a name="readme-top"></a>
 
 # Modern Space Theme Portfolio using Next.js 14 and Three.js
@@ -158,3 +159,6 @@ Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment)
 
 You can also give this repository a star to show more people and they can use this repository.
 
+=======
+# Portfolio-
+>>>>>>> efcd3f4 (Initial commit)
